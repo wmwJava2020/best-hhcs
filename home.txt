@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Best Home Healthcare Service - Professional In-Home Care</title>
+<meta name="description" content="Best Home Healthcare Service provides compassionate personal care and companion services in Forney, TX. Professional caregivers for seniors and individuals.">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
+<link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+
+<!-- HEADER/NAVIGATION -->
+<header>
+  <div class="container header-content">
+    <div class="logo">
+      <img src="https://besthhcs.com/wp-content/uploads/2026/01/logo-101.png" alt="Best Home Healthcare Service Logo">
+    </div>
+    
+    <button class="hamburger" id="hamburger">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    
+    <nav id="nav-menu">
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="services.html">Services</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<!-- HERO SECTION -->
+<section class="hero">
+  <div class="container">
+    <div class="hero-content">
+      <h1>Compassionate Care in the Comfort of Your Home</h1>
+      <p>Professional personal care and companion services tailored to your unique needs</p>
+      <div class="hero-buttons">
+        <a href="services.html" class="btn btn-primary">Our Services</a>
+        <a href="contact.html" class="btn btn-secondary">Get in Touch</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- QUICK STATS -->
+<section class="stats">
+  <div class="container">
+    <div class="stat-box">
+      <h3>15+</h3>
+      <p>Years of Experience</p>
+    </div>
+    <div class="stat-box">
+      <h3>500+</h3>
+      <p>Families Served</p>
+    </div>
+    <div class="stat-box">
+      <h3>24/7</h3>
+      <p>Support Available</p>
+    </div>
+    <div class="stat-box">
+      <h3>100%</h3>
+      <p>Client Satisfaction</p>
+    </div>
+  </div>
+</section>
+
+<!-- SERVICES PREVIEW -->
+<section class="services-preview">
+  <div class="container">
+    <h2>Our Services</h2>
+    <div class="services-grid">
+      
+      <div class="service-card">
+        <div class="service-icon">
+          <i class="fas fa-user-nurse"></i>
+        </div>
+        <h3>Personal Care</h3>
+        <p>Assistance with daily living activities including bathing, grooming, dressing, and mobility support.</p>
+        <a href="services/personal-care.html" class="btn-link">Learn More <i class="fas fa-arrow-right"></i></a>
+      </div>
+
+      <div class="service-card">
+        <div class="service-icon">
+          <i class="fas fa-heart"></i>
+        </div>
+        <h3>Companion Services</h3>
+        <p>Friendly support to reduce loneliness, provide companionship, and improve emotional well-being.</p>
+        <a href="services/companion.html" class="btn-link">Learn More <i class="fas fa-arrow-right"></i></a>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- WHY CHOOSE US -->
+<section class="why-choose">
+  <div class="container">
+    <h2>Why Choose Best Home Healthcare?</h2>
+    <div class="features-grid">
+      
+      <div class="feature">
+        <i class="fas fa-check-circle"></i>
+        <h4>Highly Trained Caregivers</h4>
+        <p>All staff are background-checked, trained, and certified in their fields.</p>
+      </div>
+
+      <div class="feature">
+        <i class="fas fa-check-circle"></i>
+        <h4>Personalized Care Plans</h4>
+        <p>We customize care to meet your specific needs and preferences.</p>
+      </div>
+
+      <div class="feature">
+        <i class="fas fa-check-circle"></i>
+        <h4>Reliability & Professionalism</h4>
+        <p>Consistent, professional service you can depend on every day.</p>
+      </div>
+
+      <div class="feature">
+        <i class="fas fa-check-circle"></i>
+        <h4>Affordable Pricing</h4>
+        <p>Flexible payment options and competitive rates.</p>
+      </div>
+
+      <div class="feature">
+        <i class="fas fa-check-circle"></i>
+        <h4>24/7 Support</h4>
+        <p>Always available when you need us, day or night.</p>
+      </div>
+
+      <div class="feature">
+        <i class="fas fa-check-circle"></i>
+        <h4>Family-Focused Approach</h4>
+        <p>We work closely with families to ensure the best outcomes.</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- TESTIMONIALS -->
+<section class="testimonials">
+  <div class="container">
+    <h2>What Our Clients Say</h2>
+    <div class="testimonial-grid">
+      
+      <div class="testimonial-card">
+        <div class="stars">
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+        </div>
+        <p class="testimonial-text">"Best Home Healthcare has been a lifesaver for our family. The caregivers are professional, compassionate, and treat my mother like family. Highly recommended!"</p>
+        <p class="testimonial-author">— Margaret Johnson, Family Member</p>
+      </div>
+
+      <div class="testimonial-card">
+        <div class="stars">
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+        </div>
+        <p class="testimonial-text">"The companion care I receive has made such a difference in my life. I look forward to seeing my caregiver every day. They're wonderful!"</p>
+        <p class="testimonial-author">— Robert Davis, Client</p>
+      </div>
+
+      <div class="testimonial-card">
+        <div class="stars">
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+        </div>
+        <p class="testimonial-text">"Exceptional service! My father receives personal care assistance and the professionalism shown by their team is outstanding. Very impressed!"</p>
+        <p class="testimonial-author">— Sarah Williams, Daughter</p>
+      </div>
+
+      <div class="testimonial-card">
+        <div class="stars">
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+        </div>
+        <p class="testimonial-text">"I appreciate the reliability and consistency. The same caregiver visits regularly and my mother feels comfortable and safe. Peace of mind for us!"</p>
+        <p class="testimonial-author">— Michael Thompson, Son</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- CTA SECTION -->
+<section class="cta">
+  <div class="container">
+    <h2>Ready to Experience Our Care?</h2>
+    <p>Contact us today for a free consultation</p>
+    <a href="contact.html" class="btn btn-primary">Get Started</a>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="container">
+    <div class="footer-content">
+      <div class="footer-section">
+        <h4>Best Home Healthcare Service</h4>
+        <p>Professional, compassionate in-home care for seniors and individuals in need.</p>
+      </div>
+
+      <div class="footer-section">
+        <h4>Quick Links</h4>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-section">
+        <h4>Contact Info</h4>
+        <p><i class="fas fa-phone"></i> 972-880-1070</p>
+        <p><i class="fas fa-fax"></i> Fax: 469-720-4070</p>
+        <p><i class="fas fa-envelope"></i> info@besthhcs.com</p>
+        <p><i class="fas fa-map-marker-alt"></i> Forney, TX</p>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; 2026 Best Home Healthcare Service LLC. All Rights Reserved.</p>
+    </div>
+  </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
