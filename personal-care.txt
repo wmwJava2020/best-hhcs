@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Personal Care Services | Best Home Healthcare Service</title>
+<meta name="description" content="Professional personal care services for seniors and individuals. Assistance with daily living activities in the comfort of your home.">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
+<link rel="stylesheet" href="../styles.css">
+
+</head>
+<body>
+
+<!-- HEADER/NAVIGATION -->
+<header>
+  <div class="container header-content">
+    <div class="logo">
+      <img src="https://besthhcs.com/wp-content/uploads/2026/01/logo-101.png" alt="Best Home Healthcare Service Logo">
+    </div>
+    
+    <button class="hamburger" id="hamburger">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    
+    <nav id="nav-menu">
+      <a href="../index.html">Home</a>
+      <a href="../about.html">About</a>
+      <a href="../services.html">Services</a>
+      <a href="../contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<!-- PAGE HERO -->
+<section class="page-hero">
+  <div class="container">
+    <h1>Personal Care Services</h1>
+    <p>Professional Assistance with Daily Living Activities</p>
+  </div>
+</section>
+
+<!-- CONTENT -->
+<section class="service-detail-page">
+  <div class="container">
+    
+    <h2>About Our Personal Care Services</h2>
+    <p>Our personal care services are designed to help individuals with their daily activities while maintaining their independence and dignity. Our trained caregivers provide compassionate, professional assistance tailored to each client's specific needs. Whether someone is recovering from an illness, managing a chronic condition, or simply needs extra support with daily tasks, we're here to help.</p>
+
+    <h2>Services We Provide</h2>
+    <div class="services-list-detailed">
+      <div class="list-item">
+        <i class="fas fa-check-circle"></i>
+        <div>
+          <h4>Personal Hygiene & Bathing</h4>
+          <p>Assistance with showering, bathing, and personal hygiene routines while ensuring privacy and dignity.</p>
+        </div>
+      </div>
+
+      <div class="list-item">
+        <i class="fas fa-check-circle"></i>
+        <div>
+          <h4>Grooming & Appearance</h4>
+          <p>Support with hair care, shaving, nail care, and helping clients maintain their personal appearance.</p>
+        </div>
+      </div>
+
+      <div class="list-item">
+        <i class="fas fa-check-circle"></i>
+        <div>
+          <h4>Dressing & Clothing</h4>
+          <p>Assistance selecting appropriate clothing and help with dressing for comfort and mobility.</p>
+        </div>
+      </div>
+
+      <div class="list-item">
+        <i class="fas fa-check-circle"></i>
+        <div>
+          <h4>Toileting & Incontinence Care</h4>
+          <p>Discreet, respectful assistance with bathroom needs and incontinence management when required.</p>
+        </div>
+      </div>
+
+      <div class="list-item">
+        <i class="fas fa-check-circle"></i>
+        <div>
+          <h4>Mobility & Transfer Support</h4>
+          <p>Safe assistance with getting in and out of bed, chairs, and moving around the home or community.</p>
+        </div>
+      </div>
+
+      <div class="list-item">
+        <i class="fas fa-check-circle"></i>
+        <div>
+          <h4>Meal Preparation & Assistance</h4>
+          <p>Help preparing nutritious meals and feeding assistance when needed.</p>
+        </div>
+      </div>
+
+      <div class="list-item">
+        <i class="fas fa-check-circle"></i>
+        <div>
+          <h4>Light Housekeeping & Laundry</h4>
+          <p>Basic household maintenance to keep the home clean, safe, and comfortable.</p>
+        </div>
+      </div>
+
+      <div class="list-item">
+        <i class="fas fa-check-circle"></i>
+        <div>
+          <h4>Medication Reminders</h4>
+          <p>Discreet reminders to take medications on schedule (caregivers do not administer medications).</p>
+        </div>
+      </div>
+    </div>
+
+    <h2>Why Choose Our Personal Care?</h2>
+    <p>Our caregivers are thoroughly screened, trained, and experienced in providing dignified, respectful personal care. We understand the importance of privacy and comfort, and we work with clients and their families to develop care plans that meet individual needs and preferences. Every caregiver on our team is committed to treating clients with the utmost respect and compassion.</p>
+
+    <h2>Benefits of Professional Personal Care</h2>
+    <div class="benefits-section">
+      <div class="benefit-item">
+        <i class="fas fa-home"></i>
+        <h4>Maintain Independence at Home</h4>
+        <p>Stay in the comfort and familiarity of your own home with support for daily activities.</p>
+      </div>
+
+      <div class="benefit-item">
+        <i class="fas fa-heart"></i>
+        <h4>Maintain Dignity & Respect</h4>
+        <p>Receive care that honors your privacy and treats you with the respect you deserve.</p>
+      </div>
+
+      <div class="benefit-item">
+        <i class="fas fa-shield-alt"></i>
+        <h4>Peace of Mind for Families</h4>
+        <p>Families know their loved ones are safe and receiving professional care.</p>
+      </div>
+
+      <div class="benefit-item">
+        <i class="fas fa-smile"></i>
+        <h4>Improved Health & Well-being</h4>
+        <p>Professional care promotes better health, hygiene, and overall quality of life.</p>
+      </div>
+
+      <div class="benefit-item">
+        <i class="fas fa-user-tie"></i>
+        <h4>Consistent, Professional Support</h4>
+        <p>Reliable caregivers who know you and your preferences provide continuity of care.</p>
+      </div>
+
+      <div class="benefit-item">
+        <i class="fas fa-calendar-alt"></i>
+        <h4>Flexible Scheduling</h4>
+        <p>Schedule care when you need it - from a few hours per week to full-time daily assistance.</p>
+      </div>
+    </div>
+
+    <h2>Our Caregivers</h2>
+    <p>All of our personal care attendants are carefully selected through a rigorous screening process including background checks. They receive comprehensive training in personal care techniques, infection control, patient safety, and compassionate care. Our team is committed to treating every client with respect, compassion, and professionalism.</p>
+
+    <h2>How to Get Started</h2>
+    <p>Getting started with our personal care services is simple. Contact us today for a free consultation where we'll discuss your needs, answer your questions, and develop a customized care plan that works for you. We'll match you with a qualified caregiver and ensure a smooth transition to receiving professional in-home care.</p>
+
+    <div style="text-align: center; margin-top: 40px;">
+      <a href="../contact.html" class="btn btn-primary">Schedule Your Free Consultation</a>
+      <a href="../services.html" class="btn btn-secondary" style="margin-left: 15px;">Back to Services</a>
+    </div>
+
+  </div>
+</section>
+
+<!-- CTA SECTION -->
+<section class="cta">
+  <div class="container">
+    <h2>Questions About Personal Care Services?</h2>
+    <p>Contact us today - we're here to help</p>
+    <a href="../contact.html" class="btn btn-primary">Get in Touch</a>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="container">
+    <div class="footer-content">
+      <div class="footer-section">
+        <h4>Best Home Healthcare Service</h4>
+        <p>Professional, compassionate in-home care for seniors and individuals in need.</p>
+      </div>
+
+      <div class="footer-section">
+        <h4>Quick Links</h4>
+        <ul>
+          <li><a href="../index.html">Home</a></li>
+          <li><a href="../about.html">About</a></li>
+          <li><a href="../services.html">Services</a></li>
+          <li><a href="../contact.html">Contact</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-section">
+        <h4>Contact Info</h4>
+        <p><i class="fas fa-phone"></i> 972-880-1070</p>
+        <p><i class="fas fa-fax"></i> Fax: 469-720-4070</p>
+        <p><i class="fas fa-envelope"></i> info@besthhcs.com</p>
+        <p><i class="fas fa-map-marker-alt"></i> Forney, TX</p>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; 2026 Best Home Healthcare Service LLC. All Rights Reserved.</p>
+    </div>
+  </div>
+</footer>
+
+<script src="../script.js"></script>
+</body>
+</html>
