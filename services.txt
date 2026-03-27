@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Services | Best Home Healthcare Service</title>
+<meta name="description" content="Our professional home healthcare services include personal care and companion services for seniors and individuals in need.">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
+<link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+
+<!-- HEADER/NAVIGATION -->
+<header>
+  <div class="container header-content">
+    <div class="logo">
+      <img src="https://besthhcs.com/wp-content/uploads/2026/01/logo-101.png" alt="Best Home Healthcare Service Logo">
+    </div>
+    
+    <button class="hamburger" id="hamburger">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    
+    <nav id="nav-menu">
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="services.html">Services</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<!-- PAGE HERO -->
+<section class="page-hero">
+  <div class="container">
+    <h1>Our Services</h1>
+    <p>Professional, compassionate care tailored to your needs</p>
+  </div>
+</section>
+
+<!-- SERVICES DETAILED -->
+<section class="services-detailed">
+  <div class="container">
+    <div class="service-detail">
+      <div class="service-image-col">
+        <div class="service-icon-large">
+          <i class="fas fa-user-nurse"></i>
+        </div>
+      </div>
+      <div class="service-text-col">
+        <h2>Personal Care Services</h2>
+        <p>Our personal care services are designed to assist individuals with their daily living activities while maintaining their independence, dignity, and comfort in their own homes.</p>
+        
+        <h3>What's Included:</h3>
+        <ul class="service-list">
+          <li><i class="fas fa-check"></i> Bathing and personal hygiene assistance</li>
+          <li><i class="fas fa-check"></i> Grooming and hair care support</li>
+          <li><i class="fas fa-check"></i> Dressing and clothing assistance</li>
+          <li><i class="fas fa-check"></i> Toileting and incontinence care</li>
+          <li><i class="fas fa-check"></i> Mobility assistance and transfer support</li>
+          <li><i class="fas fa-check"></i> Walking and ambulation support</li>
+          <li><i class="fas fa-check"></i> Meal preparation and feeding assistance</li>
+          <li><i class="fas fa-check"></i> Light housekeeping and laundry</li>
+          <li><i class="fas fa-check"></i> Medication reminders</li>
+          <li><i class="fas fa-check"></i> Nail and foot care</li>
+        </ul>
+
+        <a href="services/personal-care.html" class="btn btn-primary">Learn More</a>
+      </div>
+    </div>
+
+    <div class="service-detail service-detail-reverse">
+      <div class="service-image-col">
+        <div class="service-icon-large">
+          <i class="fas fa-heart"></i>
+        </div>
+      </div>
+      <div class="service-text-col">
+        <h2>Companion Services</h2>
+        <p>Our companion care services provide emotional support, friendship, and assistance to seniors and individuals who may be experiencing loneliness or isolation.</p>
+        
+        <h3>What's Included:</h3>
+        <ul class="service-list">
+          <li><i class="fas fa-check"></i> Friendly conversation and emotional support</li>
+          <li><i class="fas fa-check"></i> Assistance with errands and light housekeeping</li>
+          <li><i class="fas fa-check"></i> Transportation to appointments and activities</li>
+          <li><i class="fas fa-check"></i> Meal preparation and shopping assistance</li>
+          <li><i class="fas fa-check"></i> Entertainment and recreational activities</li>
+          <li><i class="fas fa-check"></i> Help organizing and managing daily tasks</li>
+          <li><i class="fas fa-check"></i> Medication reminders</li>
+          <li><i class="fas fa-check"></i> Respite care for family caregivers</li>
+        </ul>
+
+        <a href="services/companion.html" class="btn btn-primary">Learn More</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA SECTION -->
+<section class="cta">
+  <div class="container">
+    <h2>Ready to Get Started?</h2>
+    <p>Contact us today for a free consultation and personalized care plan</p>
+    <a href="contact.html" class="btn btn-primary">Contact Us</a>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="container">
+    <div class="footer-content">
+      <div class="footer-section">
+        <h4>Best Home Healthcare Service</h4>
+        <p>Professional, compassionate in-home care for seniors and individuals in need.</p>
+      </div>
+
+      <div class="footer-section">
+        <h4>Quick Links</h4>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-section">
+        <h4>Contact Info</h4>
+        <p><i class="fas fa-phone"></i> 972-880-1070</p>
+        <p><i class="fas fa-fax"></i> Fax: 469-720-4070</p>
+        <p><i class="fas fa-envelope"></i> info@besthhcs.com</p>
+        <p><i class="fas fa-map-marker-alt"></i> Forney, TX</p>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; 2026 Best Home Healthcare Service LLC. All Rights Reserved.</p>
+    </div>
+  </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
