@@ -1,0 +1,57 @@
+.header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+.navigation {
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+}
+
+.navigation a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.navigation a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.hero {
+    background: url('hero-image.jpg') no-repeat center center;
+    height: 400px;
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero h1 {
+    font-size: 3em;
+}
+
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+@media (max-width: 600px) {
+    .header, .footer {
+        font-size: 0.8em;
+    }
+    .hero h1 {
+        font-size: 2em;
+    }
+}
