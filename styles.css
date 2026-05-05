@@ -1,5 +1,5 @@
 .header {
-    background-color: #4CAF50;
+    background-color: #42afed;
     color: white;
     padding: 15px;
     text-align: center;
@@ -12,15 +12,15 @@
 }
 
 .navigation a {
-    color: white;
+    color: #42afed;
     padding: 14px 20px;
     text-decoration: none;
     text-align: center;
 }
 
 .navigation a:hover {
-    background-color: #ddd;
-    color: black;
+    background-color: #42afed;
+    color: white;
 }
 
 .hero {
@@ -45,6 +45,14 @@
     position: absolute;
     bottom: 0;
     width: 100%;
+}
+
+label {
+    color: #42afed;
+}
+
+a {
+    color: #42afed;
 }
 
 @media (max-width: 600px) {
